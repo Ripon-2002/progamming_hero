@@ -7,3 +7,13 @@ div{
     font-size: medium;
     text-align: center;
 }
+
+h2{
+    background-color:rgb(118, 66, 118);
+    color: aliceblue;
+    border-radius: 5px;
+    height: 50px;
+    text-align: center;
+    padding:10px 20px;
+    margin: 0px;
+}
